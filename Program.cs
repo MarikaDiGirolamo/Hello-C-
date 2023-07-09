@@ -40,7 +40,8 @@ namespace HelloCSharp
 
             string stringa = Convert.ToString(prova);// Con questo metodo posso convertire la mia variabile in una stringa
 
-            Console.WriteLine(stringa);
+            Console.WriteLine(Convert.ToDouble(prova));// diventa un double
+            Console.WriteLine(Convert.ToInt32(doppio));//diventa un intero
 
 
 
