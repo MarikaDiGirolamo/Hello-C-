@@ -42,6 +42,7 @@ namespace HelloCSharp
 
             Console.WriteLine(Convert.ToDouble(prova));// diventa un double
             Console.WriteLine(Convert.ToInt32(doppio));//diventa un intero
+            Console.Read();
 
 
 
